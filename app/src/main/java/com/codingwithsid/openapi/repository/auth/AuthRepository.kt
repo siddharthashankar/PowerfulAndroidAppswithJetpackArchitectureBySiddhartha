@@ -1,6 +1,6 @@
 package com.codingwithsid.openapi.repository.auth
 
-import com.codingwithsid.openapi.api.OpenApiAuthService
+import com.codingwithsid.openapi.api.auth.OpenApiAuthService
 import com.codingwithsid.openapi.persistence.AccountPropertiesDao
 import com.codingwithsid.openapi.persistence.AuthTokenDao
 import com.codingwithsid.openapi.session.SessionManager
